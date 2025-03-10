@@ -23,12 +23,6 @@ for(int i =0; i < arr.length; i++) {
 System.out.println("Unique element: "+ result);
 
 
-
-/*
- * 2. If Multiple Unique Elements Exist If you want to find all unique numbers,
- * use HashMap or HashSet:
- */
-
 int arr2[] = {2, 3, 5, 5, 10, 3}; 
 HashMap<Integer, Integer> countMap = new HashMap<>();
 
@@ -44,6 +38,8 @@ for (int num : arr2) {
         System.out.print(num + " ");
     }
 }
+
+
 
 
 
