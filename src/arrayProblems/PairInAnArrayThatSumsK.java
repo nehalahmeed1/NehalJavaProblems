@@ -26,10 +26,7 @@ public class PairInAnArrayThatSumsK {
 		
 	}
 	
-	
-	
-	
-	
+
 	
 	
 	

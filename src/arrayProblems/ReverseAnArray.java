@@ -22,7 +22,7 @@ public class ReverseAnArray {
      
      public static void main(String[] arr) {
     	 
-    	 int[] arr1 = {1,2,3,4,5};
+    	 int[] arr1 = {1,2,3,4,5,6};
     	 Reverse(arr1);
     	 
     	 System.out.println("Reverse String :"+ Arrays.toString(arr1));

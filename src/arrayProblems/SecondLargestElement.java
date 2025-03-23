@@ -25,7 +25,7 @@ int first = -1, second = -1;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[] arr = {10,20,5,30,50};
+		int[] arr = {10,20,30,50,75};
 		
 		
 		System.out.println(SecondElement(arr));
